@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    width: 750px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: auto;
+}
+body{
+    background-image: url("/static/img/ninja_background.jpg");
+}
+li{
+    color: white;
+    background: red;
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+}
+.or{
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 100%;
+    padding: 10px;
+
+}
+.log{
+    text-align: center;
+}
+.register{
+    text-align: center;
+}
